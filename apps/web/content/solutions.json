@@ -1,0 +1,159 @@
+{
+  "solutions": [
+    {
+      "slug": "ai-automation",
+      "title": "AI Workflow Automation",
+      "subtitle": "Eliminate manual tasks with intelligent automation",
+      "icon": "Bot",
+      "description": "Transform repetitive workflows into self-running systems that learn and improve over time.",
+      "problem": "Teams waste 40% of their time on repetitive tasks that could be automated",
+      "outcome": "Cut operational costs by 35-60% while improving accuracy and speed",
+      "features": [
+        "Process mapping & optimization",
+        "Claude/GPT integration",
+        "n8n workflow orchestration",
+        "Custom API development",
+        "Error handling & monitoring"
+      ],
+      "metrics": {
+        "time_saved": "20+ hours/week",
+        "cost_reduction": "35-60%",
+        "error_rate": "-95%",
+        "implementation": "4-6 weeks"
+      },
+      "stack": ["OpenAI", "Claude", "n8n", "Python", "Node.js"],
+      "use_cases": [
+        "Customer support automation",
+        "Document processing",
+        "Data entry & validation",
+        "Report generation",
+        "Email triage & response"
+      ],
+      "cta": "Start automating in 30 days"
+    },
+    {
+      "slug": "ai-customer-support",
+      "title": "AI Customer Support",
+      "subtitle": "24/7 intelligent support that scales infinitely",
+      "icon": "Headphones",
+      "description": "Deploy AI agents that handle 80% of support tickets while improving CSAT scores.",
+      "problem": "Support costs scale linearly with growth, creating unsustainable unit economics",
+      "outcome": "Handle 10x ticket volume at 20% of the cost with higher CSAT",
+      "features": [
+        "Multi-channel AI agents",
+        "Knowledge base training",
+        "Sentiment analysis",
+        "Escalation workflows",
+        "Performance analytics"
+      ],
+      "metrics": {
+        "ticket_deflection": "80%",
+        "response_time": "<30 seconds",
+        "csat_improvement": "+15%",
+        "cost_per_ticket": "-75%"
+      },
+      "stack": ["GPT-4", "Zendesk", "Intercom", "Slack", "Custom APIs"],
+      "use_cases": [
+        "Tier 1 support automation",
+        "FAQ handling",
+        "Order status updates",
+        "Technical troubleshooting",
+        "Appointment scheduling"
+      ],
+      "cta": "Reduce support costs by 75%"
+    },
+    {
+      "slug": "data-pipelines",
+      "title": "AI Data Pipelines",
+      "subtitle": "Turn raw data into actionable intelligence",
+      "icon": "Database",
+      "description": "Build resilient data pipelines that clean, enrich, and analyze data in real-time.",
+      "problem": "80% of data work is cleaning and preparation, not analysis",
+      "outcome": "Get insights 10x faster with self-healing data pipelines",
+      "features": [
+        "ETL/ELT automation",
+        "Data quality monitoring",
+        "AI-powered enrichment",
+        "Real-time processing",
+        "Automated reporting"
+      ],
+      "metrics": {
+        "processing_speed": "10x faster",
+        "data_accuracy": "99.9%",
+        "manual_effort": "-90%",
+        "time_to_insight": "-85%"
+      },
+      "stack": ["PostgreSQL", "Apache Airflow", "dbt", "Python", "Snowflake"],
+      "use_cases": [
+        "Sales data consolidation",
+        "Customer 360 views",
+        "Financial reporting",
+        "Inventory optimization",
+        "Marketing attribution"
+      ],
+      "cta": "Build your data pipeline"
+    },
+    {
+      "slug": "revenue-operations",
+      "title": "Revenue Operations AI",
+      "subtitle": "Accelerate revenue with AI-powered RevOps",
+      "icon": "TrendingUp",
+      "description": "Optimize your entire revenue engine with AI that identifies opportunities and automates actions.",
+      "problem": "Revenue teams spend 70% of time on admin instead of selling",
+      "outcome": "Increase revenue velocity by 40% while reducing CAC",
+      "features": [
+        "Lead scoring & routing",
+        "Pipeline automation",
+        "Forecasting models",
+        "Commission calculation",
+        "Performance dashboards"
+      ],
+      "metrics": {
+        "pipeline_velocity": "+40%",
+        "lead_response": "<5 minutes",
+        "forecast_accuracy": "95%",
+        "admin_time": "-70%"
+      },
+      "stack": ["Salesforce", "HubSpot", "Clay", "Apollo", "Custom ML"],
+      "use_cases": [
+        "Lead qualification",
+        "Opportunity scoring",
+        "Territory planning",
+        "Quote generation",
+        "Revenue forecasting"
+      ],
+      "cta": "Accelerate your revenue"
+    },
+    {
+      "slug": "custom-ai-systems",
+      "title": "Custom AI Systems",
+      "subtitle": "Bespoke AI solutions for unique challenges",
+      "icon": "Sparkles",
+      "description": "When off-the-shelf won't cut it, we build custom AI systems tailored to your specific needs.",
+      "problem": "Generic solutions force you to change your business to fit the software",
+      "outcome": "Get AI that fits your business like a glove",
+      "features": [
+        "Custom model training",
+        "Proprietary algorithms",
+        "API development",
+        "System integration",
+        "Ongoing optimization"
+      ],
+      "metrics": {
+        "roi": "300-500%",
+        "implementation": "8-12 weeks",
+        "accuracy": "Custom KPIs",
+        "scalability": "Unlimited"
+      },
+      "stack": ["TensorFlow", "PyTorch", "FastAPI", "Docker", "Kubernetes"],
+      "use_cases": [
+        "Pricing optimization",
+        "Demand forecasting",
+        "Risk assessment",
+        "Quality control",
+        "Custom workflows"
+      ],
+      "cta": "Design your custom solution"
+    }
+  ]
+}

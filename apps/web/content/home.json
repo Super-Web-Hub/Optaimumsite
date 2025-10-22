@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "headline": "Ship AI systems that move the P&L",
+    "sub": "OptAImum designs, automates, and integrates AI workflows that cut costs and lift revenue—without breaking your stack.",
+    "primaryCta": "Book a Call",
+    "secondaryCta": "See case studies"
+  },
+  "values": [
+    {
+      "icon": "Clock",
+      "title": "30–90 day time-to-value",
+      "description": "Go from pilot to production in weeks, not quarters"
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Measurable KPI lift",
+      "description": "Track CSAT, handle time, lead velocity improvements"
+    },
+    {
+      "icon": "Shield",
+      "title": "Secure & compliant",
+      "description": "HIPAA, GDPR, SOC2 ready. Your data stays yours"
+    },
+    {
+      "icon": "Puzzle",
+      "title": "Built for your stack",
+      "description": "Vendor-agnostic solutions that integrate seamlessly"
+    }
+  ],
+  "logos": [
+    "/logos/client1.svg",
+    "/logos/client2.svg",
+    "/logos/client3.svg",
+    "/logos/client4.svg",
+    "/logos/client5.svg"
+  ],
+  "steps": [
+    {
+      "number": "01",
+      "title": "Discovery",
+      "description": "2-week audit of your systems, workflows, and KPI baselines"
+    },
+    {
+      "number": "02",
+      "title": "Pilot",
+      "description": "4-6 week implementation of 1-2 high-impact workflows"
+    },
+    {
+      "number": "03",
+      "title": "Scale",
+      "description": "Expand proven workflows across teams and systems"
+    }
+  ],
+  "pricingTeaser": {
+    "headline": "Start with a fixed-scope Pilot. Upgrade to Scale when the KPIs land.",
+    "packages": [
+      {
+        "name": "Discovery",
+        "price": "$3k",
+        "description": "2-week audit + roadmap"
+      },
+      {
+        "name": "Pilot",
+        "price": "$15-40k",
+        "description": "4-6 weeks, 1-2 workflows"
+      },
+      {
+        "name": "Scale",
+        "price": "Custom",
+        "description": "Multi-workflow + SLAs"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "How quickly can we see results?",
+      "answer": "Most clients see measurable improvements within 30 days of pilot launch. Full ROI typically lands within 60-90 days."
+    },
+    {
+      "question": "What if we're not technical?",
+      "answer": "No problem. We handle all technical implementation and provide training for your team. You focus on the outcomes."
+    },
+    {
+      "question": "Can we exit after the Discovery phase?",
+      "answer": "Absolutely. You keep all Discovery artifacts (audit, architecture, roadmap) with no obligation to continue."
+    },
+    {
+      "question": "Do you work with our existing tools?",
+      "answer": "Yes. We're vendor-agnostic and integrate with your current stack - CRM, ERP, data warehouse, etc."
+    },
+    {
+      "question": "What about data security?",
+      "answer": "Security-first approach: encrypted data, no PII in prompts, compliant with HIPAA/GDPR/SOC2. Your data never trains models."
+    }
+  ],
+  "cta": {
+    "headline": "Ready to ship an AI pilot that pays for itself?",
+    "buttonText": "Book a free assessment",
+    "buttonLink": "/book"
+  }
+}

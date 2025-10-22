@@ -1,0 +1,304 @@
+{
+  "caseStudies": [
+    {
+      "slug": "ecommerce-support-automation",
+      "client": "TechStyle Fashion Group",
+      "industry": "E-commerce",
+      "title": "Automated 80% of Customer Support with AI",
+      "summary": "Reduced support costs by 75% while improving CSAT scores by 15% through intelligent AI automation.",
+      "challenge": "TechStyle was drowning in 50,000+ monthly support tickets with response times exceeding 48 hours and customer satisfaction declining rapidly.",
+      "solution": "Implemented an AI-powered support system using GPT-4 and custom models to handle order inquiries, returns, and FAQs automatically.",
+      "timeline": "6 weeks from pilot to full deployment",
+      "stack": ["GPT-4", "Claude", "Zendesk", "Python", "PostgreSQL", "n8n"],
+      "metrics": {
+        "ticketDeflection": {
+          "before": "0%",
+          "after": "80%",
+          "improvement": "+80%",
+          "label": "Tickets Automated"
+        },
+        "responseTime": {
+          "before": "48 hours",
+          "after": "30 seconds",
+          "improvement": "5,760x faster",
+          "label": "Response Time"
+        },
+        "supportCost": {
+          "before": "$125,000/mo",
+          "after": "$31,250/mo",
+          "improvement": "-75%",
+          "label": "Support Costs"
+        },
+        "csat": {
+          "before": "72%",
+          "after": "87%",
+          "improvement": "+15 points",
+          "label": "Customer Satisfaction"
+        },
+        "handleTime": {
+          "before": "12 min",
+          "after": "3 min",
+          "improvement": "-75%",
+          "label": "Handle Time"
+        },
+        "roi": {
+          "value": "425%",
+          "timeframe": "Year 1",
+          "label": "Return on Investment"
+        }
+      },
+      "results": [
+        "Saved $1.1M annually in support costs",
+        "Scaled to handle Black Friday volume without adding staff",
+        "Improved first-contact resolution from 45% to 89%",
+        "Reduced customer churn by 12%"
+      ],
+      "testimonial": {
+        "quote": "OptAImum didn't just automate our support—they transformed it. We're now handling 3x the volume with half the team, and customers are happier than ever.",
+        "author": "Sarah Chen",
+        "title": "VP of Customer Experience",
+        "company": "TechStyle Fashion Group"
+      }
+    },
+    {
+      "slug": "saas-revenue-operations",
+      "client": "DataSync Solutions",
+      "industry": "SaaS",
+      "title": "Accelerated Sales Velocity by 40% with AI RevOps",
+      "summary": "Transformed revenue operations with AI-driven lead scoring, routing, and automation, increasing pipeline velocity and reducing CAC.",
+      "challenge": "DataSync's sales team was wasting 70% of time on admin tasks, leads were poorly qualified, and the sales cycle was stretching to 90+ days.",
+      "solution": "Built an AI-powered RevOps system that scores leads, automates outreach, generates proposals, and provides real-time coaching to sales reps.",
+      "timeline": "8 weeks end-to-end implementation",
+      "stack": ["OpenAI", "Salesforce", "Clay", "n8n", "PostgreSQL", "Slack"],
+      "metrics": {
+        "salesVelocity": {
+          "before": "90 days",
+          "after": "54 days",
+          "improvement": "-40%",
+          "label": "Sales Cycle"
+        },
+        "leadQuality": {
+          "before": "12%",
+          "after": "47%",
+          "improvement": "+292%",
+          "label": "SQL Conversion"
+        },
+        "adminTime": {
+          "before": "70%",
+          "after": "20%",
+          "improvement": "-71%",
+          "label": "Admin Time"
+        },
+        "cac": {
+          "before": "$8,500",
+          "after": "$5,100",
+          "improvement": "-40%",
+          "label": "Customer Acquisition Cost"
+        },
+        "winRate": {
+          "before": "18%",
+          "after": "31%",
+          "improvement": "+72%",
+          "label": "Win Rate"
+        },
+        "revenue": {
+          "value": "+$3.2M",
+          "timeframe": "6 months",
+          "label": "Additional Revenue"
+        }
+      },
+      "results": [
+        "Generated $3.2M in additional revenue in 6 months",
+        "Reduced CAC by 40% through better targeting",
+        "Increased rep productivity by 3.5x",
+        "Improved forecast accuracy to 92%"
+      ],
+      "testimonial": {
+        "quote": "The AI RevOps system OptAImum built is like having a team of 10 operations analysts working 24/7. Our sales team can finally focus on selling.",
+        "author": "Michael Torres",
+        "title": "Chief Revenue Officer",
+        "company": "DataSync Solutions"
+      }
+    },
+    {
+      "slug": "healthcare-data-pipeline",
+      "client": "MedTech Innovations",
+      "industry": "Healthcare",
+      "title": "Built HIPAA-Compliant AI Data Pipeline Processing 10M Records Daily",
+      "summary": "Created a secure, scalable data pipeline that reduced processing time by 95% while maintaining 100% HIPAA compliance.",
+      "challenge": "MedTech was manually processing patient data across 50 systems, taking 48 hours for reports with 15% error rates and compliance risks.",
+      "solution": "Designed and implemented an AI-powered data pipeline with automated quality checks, anomaly detection, and real-time processing capabilities.",
+      "timeline": "10 weeks including compliance validation",
+      "stack": ["Apache Airflow", "PostgreSQL", "Python", "Docker", "AWS", "Snowflake"],
+      "metrics": {
+        "processingTime": {
+          "before": "48 hours",
+          "after": "2.4 hours",
+          "improvement": "-95%",
+          "label": "Processing Time"
+        },
+        "dataAccuracy": {
+          "before": "85%",
+          "after": "99.7%",
+          "improvement": "+17%",
+          "label": "Data Accuracy"
+        },
+        "throughput": {
+          "before": "100K/day",
+          "after": "10M/day",
+          "improvement": "100x",
+          "label": "Records Processed"
+        },
+        "compliance": {
+          "before": "Manual audits",
+          "after": "100% automated",
+          "improvement": "Zero violations",
+          "label": "Compliance"
+        },
+        "operationalCost": {
+          "before": "$450K/year",
+          "after": "$125K/year",
+          "improvement": "-72%",
+          "label": "Operational Cost"
+        },
+        "insights": {
+          "value": "Real-time",
+          "timeframe": "vs 48hr delay",
+          "label": "Time to Insights"
+        }
+      },
+      "results": [
+        "Achieved 100% HIPAA compliance with zero violations",
+        "Reduced operational costs by $325K annually",
+        "Enabled real-time clinical decision support",
+        "Scaled to handle 100x data volume without additional resources"
+      ],
+      "testimonial": {
+        "quote": "OptAImum delivered what three other vendors couldn't—a truly scalable, compliant data pipeline. We're now making decisions on real-time data instead of 2-day-old reports.",
+        "author": "Dr. Emily Rodriguez",
+        "title": "Chief Data Officer",
+        "company": "MedTech Innovations"
+      }
+    },
+    {
+      "slug": "retail-inventory-optimization",
+      "client": "Urban Outfitters Group",
+      "industry": "Retail",
+      "title": "Reduced Inventory Costs by 35% with AI Demand Forecasting",
+      "summary": "Implemented AI-driven inventory optimization that reduced stockouts by 60% while cutting carrying costs by millions.",
+      "challenge": "Urban Outfitters was losing $15M annually to stockouts and excess inventory, with manual forecasting accuracy below 60%.",
+      "solution": "Deployed a custom AI system that analyzes 200+ signals to predict demand, optimize inventory levels, and automate reordering across 500+ stores.",
+      "timeline": "12 weeks from pilot to full rollout",
+      "stack": ["TensorFlow", "Python", "PostgreSQL", "Redis", "Kubernetes", "SAP"],
+      "metrics": {
+        "inventoryCosts": {
+          "before": "$45M",
+          "after": "$29.3M",
+          "improvement": "-35%",
+          "label": "Inventory Costs"
+        },
+        "stockouts": {
+          "before": "18%",
+          "after": "7%",
+          "improvement": "-60%",
+          "label": "Stockout Rate"
+        },
+        "forecastAccuracy": {
+          "before": "58%",
+          "after": "91%",
+          "improvement": "+57%",
+          "label": "Forecast Accuracy"
+        },
+        "turnover": {
+          "before": "4.2x",
+          "after": "6.8x",
+          "improvement": "+62%",
+          "label": "Inventory Turnover"
+        },
+        "markdown": {
+          "before": "22%",
+          "after": "14%",
+          "improvement": "-36%",
+          "label": "Markdown Rate"
+        },
+        "revenue": {
+          "value": "+$8.5M",
+          "timeframe": "Year 1",
+          "label": "Revenue Impact"
+        }
+      },
+      "results": [
+        "Saved $15.7M in inventory carrying costs",
+        "Increased revenue by $8.5M from reduced stockouts",
+        "Improved gross margins by 4.2 percentage points",
+        "Reduced manual planning effort by 85%"
+      ],
+      "testimonial": {
+        "quote": "The AI system OptAImum built is magic. We're selling more with less inventory, and our buyers can focus on strategy instead of spreadsheets.",
+        "author": "James Park",
+        "title": "SVP of Merchandising",
+        "company": "Urban Outfitters Group"
+      }
+    },
+    {
+      "slug": "fintech-fraud-detection",
+      "client": "NeoBank Technologies",
+      "industry": "FinTech",
+      "title": "Stopped 94% of Fraud with Real-Time AI Detection",
+      "summary": "Built a real-time fraud detection system that reduced fraud losses by 94% while maintaining a 0.02% false positive rate.",
+      "challenge": "NeoBank was losing $2M monthly to fraud with their rule-based system catching only 40% of fraudulent transactions and blocking legitimate users.",
+      "solution": "Implemented a real-time AI fraud detection system using ensemble models that analyze 500+ features in <50ms per transaction.",
+      "timeline": "8 weeks including regulatory approval",
+      "stack": ["PyTorch", "Redis", "Kafka", "PostgreSQL", "Docker", "AWS SageMaker"],
+      "metrics": {
+        "fraudCatch": {
+          "before": "40%",
+          "after": "94%",
+          "improvement": "+135%",
+          "label": "Fraud Detection Rate"
+        },
+        "fraudLosses": {
+          "before": "$2M/mo",
+          "after": "$120K/mo",
+          "improvement": "-94%",
+          "label": "Fraud Losses"
+        },
+        "falsePositives": {
+          "before": "2.8%",
+          "after": "0.02%",
+          "improvement": "-99.3%",
+          "label": "False Positive Rate"
+        },
+        "processingTime": {
+          "before": "500ms",
+          "after": "47ms",
+          "improvement": "-91%",
+          "label": "Decision Time"
+        },
+        "customerFriction": {
+          "before": "High",
+          "after": "Minimal",
+          "improvement": "3x fewer",
+          "label": "Manual Reviews"
+        },
+        "savings": {
+          "value": "$23M",
+          "timeframe": "Year 1",
+          "label": "Total Savings"
+        }
+      },
+      "results": [
+        "Saved $23M in fraud losses in first year",
+        "Reduced manual review team by 70%",
+        "Improved customer experience with fewer false blocks",
+        "Achieved regulatory compliance for AI decision-making"
+      ],
+      "testimonial": {
+        "quote": "OptAImum's fraud detection system paid for itself in the first month. We're now confident scaling our user base knowing fraud is under control.",
+        "author": "Lisa Wang",
+        "title": "Chief Risk Officer",
+        "company": "NeoBank Technologies"
+      }
+    }
+  ]
+}
