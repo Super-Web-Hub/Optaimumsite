@@ -5,6 +5,7 @@
 .yarn/install-state.gz
 
 # testing
+/apps/web/.next/
 /coverage
 *.lcov
 .nyc_output
