@@ -3,7 +3,6 @@
 import { useState, useEffect } from 'react'
 import { Button } from '@/components/ui/button'
 import Link from 'next/link'
-import { useSearchParams } from 'next/navigation'
 import {
   MessageSquare,
   Users,
@@ -98,7 +97,6 @@ const solutions = [
 ]
 
 export default function SolutionsPage() {
-  const searchParams = useSearchParams()
   const [activeTab, setActiveTab] = useState('no-show')
 
   useEffect(() => {
